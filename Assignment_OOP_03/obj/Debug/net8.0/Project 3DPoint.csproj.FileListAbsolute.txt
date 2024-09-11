@@ -1,0 +1,14 @@
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.AssemblyInfoInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.AssemblyInfo.cs
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.csproj.CoreCompileInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\bin\Debug\net8.0\Project 3DPoint.exe
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\bin\Debug\net8.0\Project 3DPoint.deps.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\bin\Debug\net8.0\Project 3DPoint.runtimeconfig.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\bin\Debug\net8.0\Project 3DPoint.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\bin\Debug\net8.0\Project 3DPoint.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\refint\Project 3DPoint.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.genruntimeconfig.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\ref\Project 3DPoint.dll

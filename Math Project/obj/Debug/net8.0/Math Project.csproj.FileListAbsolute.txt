@@ -1,0 +1,14 @@
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\bin\Debug\net8.0\Math Project.exe
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\bin\Debug\net8.0\Math Project.deps.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\bin\Debug\net8.0\Math Project.runtimeconfig.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\bin\Debug\net8.0\Math Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\bin\Debug\net8.0\Math Project.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\Math Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\Math Project.AssemblyInfoInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\Math Project.AssemblyInfo.cs
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\Math Project.csproj.CoreCompileInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\Math Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\refint\Math Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\Math Project.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\Math Project.genruntimeconfig.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Math Project\obj\Debug\net8.0\ref\Math Project.dll

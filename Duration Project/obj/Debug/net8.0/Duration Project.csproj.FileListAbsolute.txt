@@ -1,0 +1,14 @@
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\bin\Debug\net8.0\Duration Project.exe
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\bin\Debug\net8.0\Duration Project.deps.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\bin\Debug\net8.0\Duration Project.runtimeconfig.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\bin\Debug\net8.0\Duration Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\bin\Debug\net8.0\Duration Project.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.AssemblyInfoInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.AssemblyInfo.cs
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.csproj.CoreCompileInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\refint\Duration Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.genruntimeconfig.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\ref\Duration Project.dll

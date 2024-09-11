@@ -1,0 +1,14 @@
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\bin\Debug\net8.0\Shap Project.exe
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\bin\Debug\net8.0\Shap Project.deps.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\bin\Debug\net8.0\Shap Project.runtimeconfig.json
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\bin\Debug\net8.0\Shap Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\bin\Debug\net8.0\Shap Project.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\Shap Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\Shap Project.AssemblyInfoInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\Shap Project.AssemblyInfo.cs
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\Shap Project.csproj.CoreCompileInputs.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\Shap Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\refint\Shap Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\Shap Project.pdb
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\Shap Project.genruntimeconfig.cache
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Shap Project\obj\Debug\net8.0\ref\Shap Project.dll
