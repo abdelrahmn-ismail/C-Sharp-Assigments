@@ -6,12 +6,12 @@ namespace Assignment_OOP_03
         static void Main(string[] args)
         {
             #region 3.Read from the User the Coordinates for 2 points P1, P2
-            //Point3D[] points = { Point3D.Create3DPoint(), Point3D.Create3DPoint() };
+            Point3D[] points = { Point3D.Create3DPoint(), Point3D.Create3DPoint() };
 
-            //foreach (var item in points)
-            //{
-            //    Console.WriteLine(item);
-            //}
+            foreach (var item in points)
+            {
+                Console.WriteLine(item);
+            }
             #endregion
 
             #region 5.Define array of points and sort this array based on X & Y coordinates.

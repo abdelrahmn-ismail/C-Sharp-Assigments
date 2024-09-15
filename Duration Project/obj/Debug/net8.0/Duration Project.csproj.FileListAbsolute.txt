@@ -12,3 +12,4 @@ C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\ne
 C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.pdb
 C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.genruntimeconfig.cache
 C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\ref\Duration Project.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Duration Project\obj\Debug\net8.0\Duration Project.sourcelink.json

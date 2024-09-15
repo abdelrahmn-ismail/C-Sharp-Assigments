@@ -12,3 +12,4 @@ C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\n
 C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.pdb
 C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.genruntimeconfig.cache
 C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\ref\Project 3DPoint.dll
+C:\Users\BlueSkyDev\source\repos\Assignment_OOP_03\Assignment_OOP_03\obj\Debug\net8.0\Project 3DPoint.sourcelink.json

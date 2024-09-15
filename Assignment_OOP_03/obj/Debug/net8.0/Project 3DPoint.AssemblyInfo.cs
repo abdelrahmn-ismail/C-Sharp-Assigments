@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project 3DPoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6feaf8f5e077f3b94663b2465b5ba3769c5ebc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project 3DPoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project 3DPoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

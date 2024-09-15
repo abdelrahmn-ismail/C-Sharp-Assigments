@@ -137,5 +137,10 @@ namespace Assignment_OOP_03
         {
             return $"X: {x}, Y: {y}, Z: {z}";
         }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
